@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>72a4cfcf-69cf-4aa0-b42a-e3142354005d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.responsive-logobar.menu-button > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/section[2]/div/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.responsive-logobar > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9bfae668-a337-48ef-a19f-75ce4506adcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/section[@class=&quot;sticky&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;responsive-header&quot;]/div[@class=&quot;col-xs-1&quot;]/div[@class=&quot;responsive-logobar menu-button&quot;]/a[1]</value>
+      <webElementGuid>5c5d06de-3597-48ee-8b9c-cb5a030fafc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section[2]/div/div/div[2]/div/div/a</value>
+      <webElementGuid>b7860a23-056c-4443-8299-f6c97e8a0ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::a[1]</value>
+      <webElementGuid>a188f203-c064-47fc-a1eb-0e4567dfba4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHANAKYA-BUHS'])[1]/following::a[2]</value>
+      <webElementGuid>a276e317-160e-413f-8332-e2eb8483a861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::a[2]</value>
+      <webElementGuid>69c5360c-78ce-43b7-a0c3-8f8f10aa74c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>186e3a7b-ed11-420f-b24d-c2f47d08243d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login_responsive-logobar menu-button</name>
+   <tag></tag>
+   <elementGuidId>560af708-c054-4595-8580-912ce89e0e30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.responsive-logobar.menu-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/section[2]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.responsive-logobar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>11586ed3-a594-4151-8cd6-b029baf9a05b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>responsive-logobar menu-button</value>
+      <webElementGuid>c85f0825-dae2-4162-a1b6-e08bca9bdebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/section[@class=&quot;sticky&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;responsive-header&quot;]/div[@class=&quot;col-xs-1&quot;]/div[@class=&quot;responsive-logobar menu-button&quot;]</value>
+      <webElementGuid>456c5484-c6a6-4f01-ab62-57c286345201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/section[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>7ca1aa5b-c9a6-4685-8891-f78be8922f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[3]</value>
+      <webElementGuid>50d97018-d4cd-44bf-8dc7-3f8a40a1a042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHANAKYA-BUHS'])[1]/following::div[3]</value>
+      <webElementGuid>5988bea1-8a6a-46f1-a03b-956892975c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::div[1]</value>
+      <webElementGuid>3744e0dd-c473-4aec-bc77-bb2f9cf57d4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div</value>
+      <webElementGuid>874291ea-c00c-419c-abec-b66046ff8b6d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

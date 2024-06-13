@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_concat(Hon, , ble Chief Minister, Bihar_7196fb</name>
+   <tag></tag>
+   <elementGuidId>482e854b-eb23-4caf-a07c-cb0a3b2d8a24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>center > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='aspnetForm']/div[4]/div/div/div[2]/center/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>center >> internal:has-text=&quot;Shri Nitish Kumar Hon'ble Chief Minister, Bihar &amp; Chancellor https://cm.bihar.go&quot;i >> internal:role=img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1faa6a58-26d9-40ee-9808-98b075077967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>UploadedImage/cm.jpg</value>
+      <webElementGuid>da39c357-5979-498a-805c-4e357b08113e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>0e595ba0-15f6-47a2-80ff-a8d034c2fd6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aspnetForm&quot;)/div[4]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/center[1]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>b7e8569f-71dc-4314-b4e4-13373b302d8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='aspnetForm']/div[4]/div/div/div[2]/center/img</value>
+      <webElementGuid>79068eeb-9b71-4f5b-b078-e588d9a9b902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//center/img</value>
+      <webElementGuid>0a6806b5-5fa1-4ed8-a005-1b657d9535f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'UploadedImage/cm.jpg']</value>
+      <webElementGuid>68a5ce83-78cf-4a73-99d9-a02c1e8101d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
